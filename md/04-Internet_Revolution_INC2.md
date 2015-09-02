@@ -17,8 +17,7 @@ Rights: CC BY-NC 4.0
 ...
 
 
-
-
+# Acknowledgments
 
 Dedicated to Andy Cameron
 
@@ -37,24 +36,6 @@ times.*
 Stafford Beer, *Brain of the Firm*
 
 
-
-<!--
-# CONTENTS
-
-Richard Barbrook
-
-The Owl of Minerva Flies at Dusk
-
-
-Richard Barbrook & Andy Cameron
-
-The Californian Ideology
-
-Richard Barbrook
-
-Cyber-Communism: How the Americans Are Superseding
-Capitalism in Cyberspace
--->
 
 
 
