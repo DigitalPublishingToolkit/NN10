@@ -89,10 +89,11 @@ book.epub: clean $(allmarkdown) book.md epub/metadata.xml epub/styles.epub.css e
 		--epub-embed-font=../lib/Raleway-Regular.otf \
 		-o ../book.epub \
 		book.md ; \
-		cd .. \ ;
-		python scripts/epub_process.py book.epub ; \
 		done
-#		--epub-embed-font=lib/UbuntuMono-B.ttf \
+#		cd .. \ ;
+#		python scripts/epub_process.py book.epub ;
+#		done
+
 
 clean:  # remove outputs
 	rm -f md/book.md  
