@@ -206,13 +206,13 @@
     <Content>&#x2028;</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>ISBN ?????????????????? (print)</Content>
+    <Content>ISBN 978-94-92302-01-4 (print)</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>&#x2028;</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>ISBN ?????????????????? (EPUB)</Content>
+    <Content>ISBN 978-94-92302-02-1 (EPUB)</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
