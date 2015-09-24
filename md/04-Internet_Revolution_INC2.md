@@ -1,12 +1,12 @@
 ---
-Pr-id: The Internet Revolution: From Dotcom Capitalism to Cybernetic Communism
+Pr-id: The Internet Revolution: From Dot-com Capitalism to Cybernetic Communism
 P-id: Network Notebooks
 A-id: 10
 Type: essay
-Book-type: anthology
-Anthology item: article
+Book-type: monography
+Anthology item:
 Item-id: 10
-Article-title: The Internet Revolution: From Dotcom Capitalism to Cybernetic Communism
+Article-title: The Internet Revolution: From Dot-com Capitalism to Cybernetic Communism
 Article-status: accepted
 Author: Richard Barbrook 
 Author-email:   corresponding address
@@ -159,7 +159,7 @@ effort, we next arranged for this polemic to be posted on the nettime
 mailing list and published by *Mute* magazine. Initially, we’d hoped
 that our essay might encourage some critical thinking amongst the
 pioneers of the Net in England. Much to our surprise, we soon realised
-that we’d written the canonical text of 1990s dotcom scepticism. Within
+that we’d written the canonical text of 1990s dot-com scepticism. Within
 a few years, *The Californian Ideology* had been translated into several
 different languages and republished in many different formats. Louis
 Rossetto – the editor of *Wired* – was forced to issue a defence of his
@@ -174,7 +174,7 @@ and the exposure of their collaboration with the USA’s spy agencies, the
 central arguments in our text no longer appear as controversial as they
 did when it first appeared. Yet, despite the changed historical
 circumstances, the widespread belief in the inherently liberating power
-of information technologies hasn’t disappeared. As the dotcom boosters
+of information technologies hasn’t disappeared. As the dot-com boosters
 boasted, the 2011 Arab Spring and Occupy protests proved that commercial
 platforms like Facebook and Twitter can be utilised for subversive
 goals. For large numbers of people, the emancipated future is still
@@ -233,7 +233,7 @@ which would soon sweep away the state regulations and bureaucratic
 monoliths of the industrial epoch. Enthused by this neoliberal prophecy,
 investors were pushing up the prices of the stocks of the new media
 companies being launched on Wall Street to ever higher levels: the
-dotcom bubble. No one wanted to miss getting a piece of the next
+dot-com bubble. No one wanted to miss getting a piece of the next
 Microsoft or Apple before it became super-profitable. In 1998, as this
 speculative frenzy was reaching its peak, I was contacted by Lance
 Strate from Fordham University in New York who was organising the 50th
@@ -271,7 +271,7 @@ second article in this book which soon appeared in various mixes both in
 print and online. For those who thought that the co-author of *The
 Californian Ideology* must be an intransigent anti-American, my apparent
 enthusiasm in *Cyber-communism* for the Promethean possibilities of that
-nation’s dotcom companies was puzzling. Even worse, the original version
+nation’s dot-com companies was puzzling. Even worse, the original version
 of the text concluded with an outrageous dedication to the USAF pilots
 who’d provided air support for the UÇK partisans during the 1999 Kosova
 War of Independence. Since the article was constructed as a
@@ -288,7 +288,7 @@ to turn this smug triumphalism against itself. Back in the 1920s and
 Bolshevik regime was transforming the Russian economy into a
 totalitarian version of an American automobile factory: state
 capitalism. Reversing this identification, my article pointed out that
-the dotcom capitalists of Silicon Valley were perpetuating Joseph
+the dot-com capitalists of Silicon Valley were perpetuating Joseph
 Stalin’s enthusiasm for technological elitism and production as an end
 in itself. In this Hegelian dialectic, the ideological fervour of
 superpower rivalry during the Cold War had always hidden a mutual
@@ -316,7 +316,7 @@ Silicon Valley’s companies were building the infrastructure for the next
 stage of human civilisation: the hi-tech gift economy.
 
 Looking back from the second decade of the 21st century, my McLuhanist
-satire of the dotcom bubble now seems both prescient and dated. Having
+satire of the dot-com bubble now seems both prescient and dated. Having
 at long last tired of Post-Modernism’s atemporality, Left academics have
 recently rediscovered Marx’s subversive interpretation of the grand
 narrative of history. Echoing the arguments of *Cyber-communism*, they
