@@ -9,15 +9,16 @@ Item-id: 10
 Article-title: The Internet Revolution: From Dot-com Capitalism to Cybernetic Communism
 Article-status: accepted
 Author: Richard Barbrook 
-Author-email:   corresponding address
-Author-bio:  about the author
-Abstract:   short description of the article (100 words)
+Author-email:   richard@imaginaryfutures.net
+Author-bio:  Richard Barbrook is a senior lecturer in the Faculty of Social Sciences and Humanities at the University of Westminster. In the early 1980s, he was involved with pirate and community radio broadcasting. His wrote extensively on the Net in his books Media Freedom, The Hi-Tech Gift Economy, Cyber-communism, The Regulation of Liberty, The Class of the New and Imaginary Futures. In 2014, his book about Situationist gaming was published, Class Wargames: Ludic Subversion Against Spectacular Capitalism.
+Abstract:   ‘The Californian Ideology’ by Richard Barbrook and Andy Cameron is the symbol of the first wave of internet criticism as embodied by magazines such as Mute, where the essay first was published in 1995, and the nettime mailinglist, where it later appeared as well. The internet might have fundamentally changed in the two following decades, but Barbrook and Cameron’s biting criticism is still highly relevant. Their analysis and questioning of the economic and political agenda of the internet utopia and its prophets remain shocking and provocative. In an introduction written especially for this 20th anniversary edition Richard Barbrook takes a fresh look at the neoliberal hippies that shaped Silicon Valley and shows how their influence continues on to this day.Written prior to the infiltration of the internet to mass markets, ‘The Californian Ideology’ is a visionary and pioneering critique on the Net neoliberalism movement that made waves through Silicon Valley in the early 90s. Barbrook and Cameron offer a rich perspective on the consequences this movement had for the early rise of the internet empire. They show how the struggle between left and right and their contrasting beliefs spawned a new surge of technological determinism throughout the tech community. Published four years later, ‘Cybernet Communism’ Richard Barbrook offers a thought probe to stir up the thinking about tech and Silicon Valley. The Californian Ideologues have for the first time in human history made the only working model of communism possible. Funded by the US military, a Stalinist vision of the promised land has become reality. Looking at the future, this cyber-communism indicates that the free exchange of information and an economy of gifts is the way forward for the Net. 
+
 Keywords:   50 keywords for search and indexing
 Rights: CC BY-NC 4.0
 ...
 
 
-# Acknowledgments
+# 
 
 Dedicated to Andy Cameron
 
@@ -45,7 +46,7 @@ Stafford Beer, *Brain of the Firm*
 <p class="author">Richard Barbrook</p>
 
 *...we have no future. (...) Fully imagined futures were the luxury of
-another day, one in which ‘now’ was of some greater duration. For us, of
+another day, one in which “now” was of some greater duration. For us, of
 course, things change so abruptly, so violently, so profoundly, that
 futures like our grandparents’ have insufficient “now” to stand on. We
 have no future because our present is too volatile.*
@@ -142,7 +143,7 @@ soon as it comes to the Net, they embrace every neoliberal idiocy
 advocated by this publication!’ It was 1995 and we’d just set up the
 Hypermedia Research Centre at the University of Westminster. Andy was
 already working with a group of talented undergraduates who would later
-find fame as the interactive designers of the Anti-rom collective. A
+find fame as the interactive designers of the Antirom collective. A
 year earlier, he’d recruited me to help him to set up the first
 postgraduate degree in Europe focused on the Net: the MA in Hypermedia
 Studies. On that spring evening, Andy now had another brilliant idea:
@@ -167,7 +168,7 @@ journal’s deficiencies. Ironically, given our denunciations of
 biobabble, the title of our article became a meme: the quick way of
 defining the nasty neoliberal politics of Silicon Valley entrepreneurs.
 Most wonderfully, lots of people who’d never read *The Californian
-Ideology* knew exactly what we meant by this phrase...
+Ideology* knew exactly what we meant by this phrase.
 
 Twenty years on, with the colonisation of the Net by corporate behemoths
 and the exposure of their collaboration with the USA’s spy agencies, the
@@ -194,7 +195,7 @@ which are still being promulgated today in new disguises:
 -   the McLuhanist claim that media technologies not human actions are
     the subject of history;
 
--   the celebration of the Net as the realisation of ‘Jefferson
+-   the celebration of the Net as the realisation of ‘Jeffersonian
     democracy’ with no sense of irony about Thomas Jefferson being
     a slave-owner.
 
@@ -300,7 +301,7 @@ By refuting the Cold War’s geopolitical orthodoxies, my aim was to
 revive the previous century’s definition of communism for the next one.
 Before the Bolsheviks’ 1917 seizure of power in Russia, Social Democrats
 in Europe had interpreted this phrase as the promise of an emancipated
-future beyond capitalism. As Marx emphasised, it would only possible to
+future beyond capitalism. As Marx emphasised, it would only be possible to
 create this new society once all of the possibilities of the old system
 were exhausted. The Left’s day-to-day struggles for political democracy
 and economic prosperity were helping to speed up the evolution of
@@ -384,11 +385,7 @@ Let’s resume the acceleration into the emancipated future and dedicate
 our energies to creating a truly human civilisation!
 
 Richard Barbrook
-
 London, England
-
-31 July 2014
-
 
 
 
@@ -471,7 +468,7 @@ America’s future could only be settled through violent conflict. As
 Jerry Rubin, one of the Yippie leaders, said at the time: ‘Our search
 for adventure and heroism takes us outside America, to a life of
 self-creation and rebellion. In response, America is ready to destroy
-us...’[^6]
+us.’[^6]
 
 During in the 1960s, radicals from the Bay Area pioneered the political
 outlook and cultural style of New Left movements across the world.
@@ -530,7 +527,7 @@ Who would have predicted that, in less than 30 years after the battle
 for People’s Park, squares and hippies would together create the
 Californian Ideology? Who would have thought that such a contradictory
 mix of technological determinism and libertarian individualism would
-becoming the hybrid orthodoxy of the information age? And who would have
+become the hybrid orthodoxy of the information age? And who would have
 suspected that as technology and freedom were worshipped more and more,
 it would become less and less possible to say anything sensible about
 the society in which they were applied?
@@ -656,8 +653,8 @@ forces of Darwinian evolution are actually one and the same thing.[^21]
 As in Heinlein’s and Asimov’s sci-fi novels, the path forwards to the
 future seems to lead back to the past. The 21st century information age
 will be the realisation of the 18th century liberal ideals of Thomas
-Jefferson: ‘ (...) the (...) creation of a new civilisation, founded in
-the eternal truths of the American Idea.[^22]
+Jefferson: ‘(...) the (...) creation of a new civilisation, founded in
+the eternal truths of the American Idea.'[^22]
 
 ## The Myth of the Free Market
 
@@ -791,7 +788,7 @@ this asocial libertarianism is personified by the central character of
 the hacker, who is a lone individual fighting for survival within the
 virtual world of information.[^31]
 
-The drift towards the right by the Californian Ideologues is the helped
+The drift towards the right by the Californian Ideologues is helped
 by their unquestioning acceptance of the liberal ideal of the
 self-sufficient individual. In American folklore, the nation was built
 out of a wilderness by free-booting individuals – the trappers, cowboys,
@@ -1151,7 +1148,7 @@ its former acolytes admit that the Soviet Union exemplified the worst
 failures of Fordism: authoritarianism, conformity and environmental
 degradation.[^52]
 
-The ideologues of American neo-liberalism have seized this opportunity
+The ideologues of American neoliberalism have seized this opportunity
 to lay claim to the future. For almost thirty years, they have been
 predicting that new technologies were about to create a utopian
 civilisation: the information society. For instance, the Tofflers have
@@ -1170,15 +1167,8 @@ famously, *Wired* argues that the ‘New Paradigm’ of unregulated
 competition between cyber-entrepreneurs is extending individual freedom
 and encouraging technological innovation in the USA.[^55] As the Net
 spreads across the world, the material and spiritual values of American
-neo-liberalism will eventually be imposed on the whole of humanity. As
-Louis Rossetto – the founding editor of *Wired* – explains:
-
-> This new world \[of the Net\] is characterised by a new global economy
-> that is inherently anti-hierarchical and decentralist, and that
-> disrespects national boundaries or the control of politicians and
-> bureaucrats (...) and by a global, networked consciousness (...) that
-> is turning (...) bankrupt electoral politics (...) into a dead
-> end.[^56]
+neoliberalism will eventually be imposed on the whole of humanity. As
+Louis Rossetto – the founding editor of *Wired* – explains: 'This new world \[of the Net\] is characterised by a new global economy that is inherently anti-hierarchical and decentralist, and that disrespects national boundaries or the control of politicians and bureaucrats (...) and by a global, networked consciousness (...) that is turning (...) bankrupt electoral politics (...) into a dead end.'[^56]
 
 ## The Cult of the Digerati
 
@@ -1367,7 +1357,7 @@ development had become an end in itself.
 
 > *The results of the Five-Year Plan \[of industrialisation\] have shown
 > that the capitalist system (...) has become obsolete and must give way
-> to another, higher, Soviet, socialist system (...)*[^79]
+> to another, higher, Soviet, socialist system (...).*[^79]
 
 Back in the 19th century, there had been no clear definition of
 communism. While Mikhail Bakunin had found its antecedents within
@@ -1382,8 +1372,8 @@ had to set up the modernising dictatorship. As well as providing
 security and education, the totalitarian state would organise the rapid
 development of the economy.[^81] Almost all radicals believed that this
 Stalinist version of communism had been proved both in the factory and
-on the battlefield. Once the Cold War started, any other interpretations
-were marginalised. For nearly fifty years, the imperial rivalry between
+on the battlefield. Once the Cold War started, any other interpretation
+was marginalised. For nearly fifty years, the imperial rivalry between
 the two superpowers was expressed as a fierce ideological conflict:
 Russian communism versus American capitalism.
 
@@ -1506,7 +1496,7 @@ false disciples.
 > the \[Stalinist\] communist revolution has also created the basis for
 > the abolition of despotism.*[^87]
 
-Like its erstwhile opponent, American neo-liberalism is now also being
+Like its erstwhile opponent, American neoliberalism is now also being
 undermined by the development of the forces of production. As predicted
 by Saint-Simon, the full potential of recent technological and social
 advances cannot be realised within the traditional hierarchies of
@@ -1674,7 +1664,7 @@ If they’re tangible objects or temporary actions, this social
 transformation is usually unproblematic. However, the commodification of
 intellectual labour has always been more difficult. While teaching and
 entertaining are like other services, publications are very different
-from other goods. Most of work to create an information product is
+from other goods. Most of the work to create an information product is
 expended in making the first copy. Even with the earliest printing
 presses, the cost of producing each subsequent copy is always much
 cheaper. In an open market, publishers would be encouraged to plagiarise
@@ -1773,7 +1763,7 @@ isolation and alienation imposed by market competition. Luckily, some
 can now find friendship and intimacy within network communities. Since
 there is no necessity for the enclosure of collective labour within
 cyberspace, Americans can compensate for the damage caused by their
-nation’s ‘...loss of a sense of a social commons.’[^108]
+nation’s ‘...loss of a sense of a social commons’.[^108]
 
 The results of interactive creativity within network communities are
 often trivial and mundane. Yet, at the same time, some online
@@ -1811,7 +1801,7 @@ the first time, Microsoft has a serious competitor for Windows. Enclosed
 by a capitalist monopoly, many American techies are working hard to
 perfect its pragmatic alternative: software cyber-communism.
 
-> *...you assume that bugs are generally shallow phenomena – or, at
+> *...[Y]ou assume that bugs are generally shallow phenomena – or, at
 > least, that they turn pretty shallow when exposed to a thousand eager
 > co-developers pounding on every single new release.*[^113]
 
@@ -1968,7 +1958,7 @@ If the correct hybrid of gift and commodity can be found, collective
 labour will immediately transmute into individual wealth. Excited by the
 riches of some cyber-entrepreneurs, many Americans are now speculating
 on the same assumption about the Net: ‘...communism is (...) a
-*generalisation* and *consummation* of (...) private property.’[^122]
+*generalisation* and *consummation* of (...) private property’.[^122]
 
 For nearly thirty years, the prophets of hi-tech neoliberalism have
 identified economic growth with social stasis. In many sectors, they
@@ -2260,7 +2250,7 @@ of Westminster, London.
 [^4]: See Mike Davis, *City of Quartz*; London: Verso, 1990; Richard
     Walker, ‘California Rages Against the Dying of the Light’, *New Left
     Review* 209 (January-February 1995), pp. 42-74; and the records of
-    Ice-T, Snoop Dog, Dr. Dre, Ice Cube, NWA and many other West Coast
+    Ice-T, Snoop Dogg, Dr. Dre, Ice Cube, NWA and many other West Coast
     rappers.
 
 [^5]: See George Katsiaficas, *The Imagination of the New Left: A Global
@@ -2550,7 +2540,7 @@ of Westminster, London.
     It’s been pushed tenfold since then...’ Tony Marcus, ‘The War is
     Over’, *Mixmag* (August 1995), p. 46.
 
-[^50]: For information on Anti-rom and *J’s Joint*, see the Antirom and
+[^50]: For information on Antirom and *J’s Joint*, see the Antirom and
     Hypermedia Research Centre’s websites: http://www.antirom.com/,
     http://www.hrc.wmin.ac.uk/.
 

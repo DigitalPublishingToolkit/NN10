@@ -1,7 +1,7 @@
 # Colophon
 
 **Network Notebook #10**<br />
-**Richard Barbrook, The Internet Revolution: From Dotcom Capitalism to Cybernetic Communism**
+**Richard Barbrook with Andy Cameron, The Internet Revolution: From Dotcom Capitalism to Cybernetic Communism**
 
 **Network Notebooks editors:** Geert Lovink and
 Miriam Rasch  
@@ -9,8 +9,7 @@ Miriam Rasch
 **EPUB development:** André Castro  
 **Printer:** Printvisie  
 **Publisher:** Institute of Network Cultures, Amsterdam  
-**Supported by:** Amsterdam University of Applied Sciences (Hogeschool
-van Amsterdam), Amsterdam Creative Industries Publishing, Stichting Democratie en Media  
+**Supported by:** Amsterdam University of Applied Sciences (Hogeschool van Amsterdam)  
 
 If you want to order copies please contact:  
 Institute of Network Cultures, Hogeschool van Amsterdam  
@@ -22,10 +21,8 @@ t: +31 (0)20 59 51 865
 freely downloadable from:**
 <http://www.networkcultures.org/publications>
 
-This publication is licensed under Creative
-Commons Attribution-NonCommercial-NoDerivs 3.0 Unported (CC BY-NC-ND
-3.0) To view a copy of this license, visit
-[creativecommons.org/licenses/by-nc-sa/3.0/](http://creativecommons.org/licenses/by-nc-sa/3.0/).
+This publication is licensed under Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0). To view a copy of this license, visit
+[creativecommons.org/licenses/by-nc-sa/3.0/](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
 Amsterdam, October 2015  
 ISBN 978-94-92302-01-4 (print)  
