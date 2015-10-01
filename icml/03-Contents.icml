@@ -57,13 +57,6 @@
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <HyperlinkTextSource Self="htss-1" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold Link">
-      <Content>Acknowledgments</Content>
-    </CharacterStyleRange>
-  </HyperlinkTextSource><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <HyperlinkTextSource Self="htss-2" Name="" Hidden="false">
-    <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold Link">
       <Content>The Owl of Minerva Flies at Dusk</Content>
     </CharacterStyleRange>
   </HyperlinkTextSource>
@@ -72,7 +65,7 @@
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <HyperlinkTextSource Self="htss-3" Name="" Hidden="false">
+  <HyperlinkTextSource Self="htss-2" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold Link">
       <Content>The Californian Ideology</Content>
     </CharacterStyleRange>
@@ -82,7 +75,7 @@
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <HyperlinkTextSource Self="htss-4" Name="" Hidden="false">
+  <HyperlinkTextSource Self="htss-3" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold Link">
       <Content>Cyber-Communism: How the Americans Are Superseding Capitalism in Cyberspace</Content>
     </CharacterStyleRange>
@@ -93,32 +86,25 @@
 </ParagraphStyleRange>
 
   </Story>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/ch??.xhtml" Name="link" DestinationURL="ch??.xhtml" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-4" Name="ch??.xhtml" Source="htss-4" Visible="true" DestinationUniqueKey="1">
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/ch008.xhtml" Name="link" DestinationURL="ch008.xhtml" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-3" Name="ch008.xhtml" Source="htss-3" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/ch??.xhtml</Destination>
+      <Destination type="object">HyperlinkURLDestination/ch008.xhtml</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/ch0??.xhtml" Name="link" DestinationURL="ch0??.xhtml" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-3" Name="ch0??.xhtml" Source="htss-3" Visible="true" DestinationUniqueKey="1">
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/ch007.xhtml" Name="link" DestinationURL="ch007.xhtml" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-2" Name="ch007.xhtml" Source="htss-2" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/ch0??.xhtml</Destination>
+      <Destination type="object">HyperlinkURLDestination/ch007.xhtml</Destination>
     </Properties>
   </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/ch??.xhtml" Name="link" DestinationURL="ch??.xhtml" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-2" Name="ch??.xhtml" Source="htss-2" Visible="true" DestinationUniqueKey="1">
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/ch006.xhtml" Name="link" DestinationURL="ch006.xhtml" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-1" Name="ch006.xhtml" Source="htss-1" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/ch??.xhtml</Destination>
-    </Properties>
-  </Hyperlink>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/ch??.xhtml" Name="link" DestinationURL="ch??.xhtml" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-1" Name="ch??.xhtml" Source="htss-1" Visible="true" DestinationUniqueKey="1">
-    <Properties>
-      <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/ch??.xhtml</Destination>
+      <Destination type="object">HyperlinkURLDestination/ch006.xhtml</Destination>
     </Properties>
   </Hyperlink>
 </Document>

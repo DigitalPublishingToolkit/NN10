@@ -77,7 +77,7 @@
     <Content> </Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
-    <Content>Richard Barbrook, The Internet Revolution: From Dotcom Capitalism to Cybernetic Communism</Content>
+    <Content>Richard Barbrook with Andy Cameron, The Internet Revolution: From Dotcom Capitalism to Cybernetic Communism</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
@@ -138,7 +138,7 @@
     <Content>Supported by:</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> Amsterdam University of Applied Sciences (Hogeschool van Amsterdam), Amsterdam Creative Industries Publishing, Stichting Democratie en Media</Content>
+    <Content> Amsterdam University of Applied Sciences (Hogeschool van Amsterdam)</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
@@ -187,11 +187,11 @@
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>This publication is licensed under Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Unported (CC BY-NC-ND 3.0) To view a copy of this license, visit </Content>
+    <Content>This publication is licensed under Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0). To view a copy of this license, visit </Content>
   </CharacterStyleRange>
   <HyperlinkTextSource Self="htss-4" Name="" Hidden="false">
     <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
-      <Content>creativecommons.org/licenses/by-nc-sa/3.0/</Content>
+      <Content>https://creativecommons.org/licenses/by-nc-sa/4.0/</Content>
     </CharacterStyleRange>
   </HyperlinkTextSource>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
@@ -216,34 +216,6 @@
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Rectangle Self="uec" ItemTransform="1 0 0 1 75 -50">
-      <Properties>
-        <PathGeometry>
-          <GeometryPathType PathOpen="false">
-            <PathPointArray>
-              <PathPointType Anchor="-75 -50" LeftDirection="-75 -50" RightDirection="-75 -50" />
-              <PathPointType Anchor="-75 50" LeftDirection="-75 50" RightDirection="-75 50" />
-              <PathPointType Anchor="75 50" LeftDirection="75 50" RightDirection="75 50" />
-              <PathPointType Anchor="75 -50" LeftDirection="75 -50" RightDirection="75 -50" />
-            </PathPointArray>
-          </GeometryPathType>
-        </PathGeometry>
-      </Properties>
-      <Image Self="ue6" ItemTransform="1.0 0 0 1.0 -75 -50">
-        <Properties>
-          <Profile type="string">
-            $ID/Embedded
-            <GraphicBounds Left="0" Top="0" Right="150" Bottom="100" />
-          </Profile>
-        </Properties>
-        <Link Self="ueb" LinkResourceURI="file:imgs/file0.jpg" />
-      </Image>
-    </Rectangle>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> </Content>
-  </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Rectangle Self="uec" ItemTransform="1 0 0 1 75 -50">
       <Properties>
@@ -294,34 +266,6 @@
           </Profile>
         </Properties>
         <Link Self="ueb" LinkResourceURI="file:imgs/file2.jpg" />
-      </Image>
-    </Rectangle>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> </Content>
-  </CharacterStyleRange>
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Rectangle Self="uec" ItemTransform="1 0 0 1 75 -50">
-      <Properties>
-        <PathGeometry>
-          <GeometryPathType PathOpen="false">
-            <PathPointArray>
-              <PathPointType Anchor="-75 -50" LeftDirection="-75 -50" RightDirection="-75 -50" />
-              <PathPointType Anchor="-75 50" LeftDirection="-75 50" RightDirection="-75 50" />
-              <PathPointType Anchor="75 50" LeftDirection="75 50" RightDirection="75 50" />
-              <PathPointType Anchor="75 -50" LeftDirection="75 -50" RightDirection="75 -50" />
-            </PathPointArray>
-          </GeometryPathType>
-        </PathGeometry>
-      </Properties>
-      <Image Self="ue6" ItemTransform="1.0 0 0 1.0 -75 -50">
-        <Properties>
-          <Profile type="string">
-            $ID/Embedded
-            <GraphicBounds Left="0" Top="0" Right="150" Bottom="100" />
-          </Profile>
-        </Properties>
-        <Link Self="ueb" LinkResourceURI="file:imgs/file3.jpg" />
       </Image>
     </Rectangle>
   </CharacterStyleRange><Br />
@@ -439,11 +383,11 @@
 </ParagraphStyleRange>
 
   </Story>
-  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//creativecommons.org/licenses/by-nc-sa/3.0/" Name="link" DestinationURL="http://creativecommons.org/licenses/by-nc-sa/3.0/" DestinationUniqueKey="1" />
-  <Hyperlink Self="uf-4" Name="http://creativecommons.org/licenses/by-nc-sa/3.0/" Source="htss-4" Visible="true" DestinationUniqueKey="1">
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/https%3a//creativecommons.org/licenses/by-nc-sa/4.0/" Name="link" DestinationURL="https://creativecommons.org/licenses/by-nc-sa/4.0/" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-4" Name="https://creativecommons.org/licenses/by-nc-sa/4.0/" Source="htss-4" Visible="true" DestinationUniqueKey="1">
     <Properties>
       <BorderColor type="enumeration">Black</BorderColor>
-      <Destination type="object">HyperlinkURLDestination/http%3a//creativecommons.org/licenses/by-nc-sa/3.0/</Destination>
+      <Destination type="object">HyperlinkURLDestination/https%3a//creativecommons.org/licenses/by-nc-sa/4.0/</Destination>
     </Properties>
   </Hyperlink>
   <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//www.networkcultures.org/publications" Name="link" DestinationURL="http://www.networkcultures.org/publications" DestinationUniqueKey="1" />

@@ -22,14 +22,14 @@ freely downloadable from:**
 <http://www.networkcultures.org/publications>
 
 This publication is licensed under Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0). To view a copy of this license, visit
-[creativecommons.org/licenses/by-nc-sa/3.0/](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+<https://creativecommons.org/licenses/by-nc-sa/4.0/>.
 
 Amsterdam, October 2015  
 ISBN 978-94-92302-01-4 (print)  
 ISBN 978-94-92302-02-1 (EPUB)
 
-![](imgs/file0.jpg) ![](imgs/file1.jpg)
-![](imgs/file2.jpg) ![](imgs/file3.jpg) 
+![](imgs/file1.jpg)
+![](imgs/file2.jpg)
 
 
 ## Network Notebook Series
@@ -42,7 +42,6 @@ PREVIOUSLY PUBLISHED NETWORK NOTEBOOKS:
 
 **Network Notebooks 09**<br/>
   Michael Seemann, Digital Tailspin: Ten Rules for the Internet After Snowden
-
 
 **Network Notebooks 08**  
   Brooke Wendt, The Allure of the Selfie: Instagram and the New Self Portrait, 2014.

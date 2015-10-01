@@ -8,6 +8,11 @@
         <Properties>
           <BasedOn type="object">$ID/NormalCharacterStyle</BasedOn>
         </Properties>
+      </CharacterStyle>
+      <CharacterStyle Self="CharacterStyle/Link" Name="Link">
+        <Properties>
+          <BasedOn type="object">$ID/NormalCharacterStyle</BasedOn>
+        </Properties>
       </CharacterStyle> 
     </RootCharacterStyleGroup>
     <RootParagraphStyleGroup Self="pandoc_paragraph_styles">
@@ -120,7 +125,7 @@
 <!-- body needs to be non-indented, otherwise code blocks are indented too far -->
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header1">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Acknowledgments</Content>
+    <Content>Dedication</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
@@ -179,7 +184,7 @@
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-    <Content>we have no future. () Fully imagined futures were the luxury of another day, one in which ‘now’ was of some greater duration. For us, of course, things change so abruptly, so violently, so profoundly, that futures like our grandparents’ have insufficient “now” to stand on. We have no future because our present is too volatile.</Content>
+    <Content>we have no future. () Fully imagined futures were the luxury of another day, one in which “now” was of some greater duration. For us, of course, things change so abruptly, so violently, so profoundly, that futures like our grandparents’ have insufficient “now” to stand on. We have no future because our present is too volatile.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
@@ -219,7 +224,7 @@
     <Content>Wired</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> – San Francisco’s must-read magazine for new media enthusiasts – into my hands and pointed to yet another article enthusing about the venture capitalists of Silicon Valley. ‘I’m fed up with English people who would never support privatising the National Health Service, but, as soon as it comes to the Net, they embrace every neoliberal idiocy advocated by this publication!’ It was 1995 and we’d just set up the Hypermedia Research Centre at the University of Westminster. Andy was already working with a group of talented undergraduates who would later find fame as the interactive designers of the Anti-rom collective. A year earlier, he’d recruited me to help him to set up the first postgraduate degree in Europe focused on the Net: the MA in Hypermedia Studies. On that spring evening, Andy now had another brilliant idea: ‘Why don’t we both write an article exposing the follies of </Content>
+    <Content> – San Francisco’s must-read magazine for new media enthusiasts – into my hands and pointed to yet another article enthusing about the venture capitalists of Silicon Valley. ‘I’m fed up with English people who would never support privatising the National Health Service, but, as soon as it comes to the Net, they embrace every neoliberal idiocy advocated by this publication!’ It was 1995 and we’d just set up the Hypermedia Research Centre at the University of Westminster. Andy was already working with a group of talented undergraduates who would later find fame as the interactive designers of the Antirom collective. A year earlier, he’d recruited me to help him to set up the first postgraduate degree in Europe focused on the Net: the MA in Hypermedia Studies. On that spring evening, Andy now had another brilliant idea: ‘Why don’t we both write an article exposing the follies of </Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
     <Content>Wired</Content>
@@ -255,7 +260,7 @@
     <Content>The Californian Ideology</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> knew exactly what we meant by this phrase</Content>
+    <Content> knew exactly what we meant by this phrase.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
@@ -292,7 +297,7 @@
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/BulList &gt; Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>the celebration of the Net as the realisation of ‘Jefferson democracy’ with no sense of irony about Thomas Jefferson being a slave-owner.</Content>
+    <Content>the celebration of the Net as the realisation of ‘Jeffersonian democracy’ with no sense of irony about Thomas Jefferson being a slave-owner.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
@@ -360,7 +365,7 @@
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>By refuting the Cold War’s geopolitical orthodoxies, my aim was to revive the previous century’s definition of communism for the next one. Before the Bolsheviks’ 1917 seizure of power in Russia, Social Democrats in Europe had interpreted this phrase as the promise of an emancipated future beyond capitalism. As Marx emphasised, it would only possible to create this new society once all of the possibilities of the old system were exhausted. The Left’s day-to-day struggles for political democracy and economic prosperity were helping to speed up the evolution of capitalism towards its final demise. If understood in Marx’s meaning, this meant that the most communist country on the planet in the late-1990s must be the global hegemon: the USA. Through this paradoxical insight, the shift within cultural production towards user-generated content became the harbinger of a more profound social transformation. When sharing information on the Net, American neoliberals were spontaneously abandoning the capitalist way of doing things: buying and selling in the marketplace. In their relentless search for profits, Silicon Valley’s companies were building the infrastructure for the next stage of human civilisation: the hi-tech gift economy.</Content>
+    <Content>By refuting the Cold War’s geopolitical orthodoxies, my aim was to revive the previous century’s definition of communism for the next one. Before the Bolsheviks’ 1917 seizure of power in Russia, Social Democrats in Europe had interpreted this phrase as the promise of an emancipated future beyond capitalism. As Marx emphasised, it would only be possible to create this new society once all of the possibilities of the old system were exhausted. The Left’s day-to-day struggles for political democracy and economic prosperity were helping to speed up the evolution of capitalism towards its final demise. If understood in Marx’s meaning, this meant that the most communist country on the planet in the late-1990s must be the global hegemon: the USA. Through this paradoxical insight, the shift within cultural production towards user-generated content became the harbinger of a more profound social transformation. When sharing information on the Net, American neoliberals were spontaneously abandoning the capitalist way of doing things: buying and selling in the marketplace. In their relentless search for profits, Silicon Valley’s companies were building the infrastructure for the next stage of human civilisation: the hi-tech gift economy.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
@@ -411,17 +416,7 @@
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Richard Barbrook</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>London, England</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>31 July 2014</Content>
+    <Content>Richard Barbrook London, England</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header1">
@@ -575,7 +570,15 @@
           <Content>Wired</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content> 1:3 (July/August 1993), pp. 53-59, 94, http://archive.wired.com/wired/archive/1.03/kapor.on.nii.html.</Content>
+          <Content> 1:3 (July/August 1993), pp. 53-59, 94, </Content>
+        </CharacterStyleRange>
+        <HyperlinkTextSource Self="htss-1" Name="" Hidden="false">
+          <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
+            <Content>http://archive.wired.com/wired/archive/1.03/kapor.on.nii.html</Content>
+          </CharacterStyleRange>
+        </HyperlinkTextSource>
+        <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+          <Content>.</Content>
         </CharacterStyleRange><Br />
       </ParagraphStyleRange>
     </Footnote>
@@ -607,7 +610,7 @@
           <Content>New Left Review</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content> 209 (January-February 1995), pp. 42-74; and the records of Ice-T, Snoop Dog, Dr. Dre, Ice Cube, NWA and many other West Coast rappers.</Content>
+          <Content> 209 (January-February 1995), pp. 42-74; and the records of Ice-T, Snoop Dogg, Dr. Dre, Ice Cube, NWA and many other West Coast rappers.</Content>
         </CharacterStyleRange><Br />
       </ParagraphStyleRange>
     </Footnote>
@@ -649,7 +652,7 @@
     </Footnote>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> On that day, the ‘straight’ world and the counter-culture appeared to be implacably opposed. On one side of the barricades, Governor Reagan and his followers advocated unfettered private enterprise and supported the invasion of Vietnam. On the other side, the hippies championed a social revolution at home and opposed imperial expansion abroad. In the year of the raid on People’s Park, it seemed that the historical choice between these two opposing visions of America’s future could only be settled through violent conflict. As Jerry Rubin, one of the Yippie leaders, said at the time: ‘Our search for adventure and heroism takes us outside America, to a life of self-creation and rebellion. In response, America is ready to destroy us’</Content>
+    <Content> On that day, the ‘straight’ world and the counter-culture appeared to be implacably opposed. On one side of the barricades, Governor Reagan and his followers advocated unfettered private enterprise and supported the invasion of Vietnam. On the other side, the hippies championed a social revolution at home and opposed imperial expansion abroad. In the year of the raid on People’s Park, it seemed that the historical choice between these two opposing visions of America’s future could only be settled through violent conflict. As Jerry Rubin, one of the Yippie leaders, said at the time: ‘Our search for adventure and heroism takes us outside America, to a life of self-creation and rebellion. In response, America is ready to destroy us.’</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
     <Footnote>
@@ -868,7 +871,7 @@
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Who would have predicted that, in less than 30 years after the battle for People’s Park, squares and hippies would together create the Californian Ideology? Who would have thought that such a contradictory mix of technological determinism and libertarian individualism would becoming the hybrid orthodoxy of the information age? And who would have suspected that as technology and freedom were worshipped more and more, it would become less and less possible to say anything sensible about the society in which they were applied?</Content>
+    <Content>Who would have predicted that, in less than 30 years after the battle for People’s Park, squares and hippies would together create the Californian Ideology? Who would have thought that such a contradictory mix of technological determinism and libertarian individualism would become the hybrid orthodoxy of the information age? And who would have suspected that as technology and freedom were worshipped more and more, it would become less and less possible to say anything sensible about the society in which they were applied?</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
@@ -1298,7 +1301,7 @@
     </Footnote>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> As in Heinlein’s and Asimov’s sci-fi novels, the path forwards to the future seems to lead back to the past. The 21st century information age will be the realisation of the 18th century liberal ideals of Thomas Jefferson: ‘ () the () creation of a new civilisation, founded in the eternal truths of the American Idea.</Content>
+    <Content> As in Heinlein’s and Asimov’s sci-fi novels, the path forwards to the future seems to lead back to the past. The 21st century information age will be the realisation of the 18th century liberal ideals of Thomas Jefferson: ‘() the () creation of a new civilisation, founded in the eternal truths of the American Idea.'</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
     <Footnote>
@@ -1628,7 +1631,7 @@
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>The drift towards the right by the Californian Ideologues is the helped by their unquestioning acceptance of the liberal ideal of the self-sufficient individual. In American folklore, the nation was built out of a wilderness by free-booting individuals – the trappers, cowboys, preachers, and settlers of the frontier. The American revolution itself was fought to protect the freedoms and property of individuals against oppressive laws and unjust taxes imposed by a foreign monarch. For both the New Left and the New Right, the early years of the American republic provide a potent model for their rival versions of individual freedom. Yet there is a profound contradiction at the centre of this primordial American dream: individuals in this period only prospered through the suffering of others. Nowhere is this clearer than in the life of Thomas Jefferson – the chief icon of the Californian Ideology.</Content>
+    <Content>The drift towards the right by the Californian Ideologues is helped by their unquestioning acceptance of the liberal ideal of the self-sufficient individual. In American folklore, the nation was built out of a wilderness by free-booting individuals – the trappers, cowboys, preachers, and settlers of the frontier. The American revolution itself was fought to protect the freedoms and property of individuals against oppressive laws and unjust taxes imposed by a foreign monarch. For both the New Left and the New Right, the early years of the American republic provide a potent model for their rival versions of individual freedom. Yet there is a profound contradiction at the centre of this primordial American dream: individuals in this period only prospered through the suffering of others. Nowhere is this clearer than in the life of Thomas Jefferson – the chief icon of the Californian Ideology.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
@@ -2296,7 +2299,7 @@
           <Content>	</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>For information on Anti-rom and </Content>
+          <Content>For information on Antirom and </Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
           <Content>J’s Joint</Content>
@@ -2402,7 +2405,7 @@
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>The ideologues of American neo-liberalism have seized this opportunity to lay claim to the future. For almost thirty years, they have been predicting that new technologies were about to create a utopian civilisation: the information society. For instance, the Tofflers have long been convinced that the convergence of computing, telecommunications and the media would free individuals from the clutches of both big business and big government.</Content>
+    <Content>The ideologues of American neoliberalism have seized this opportunity to lay claim to the future. For almost thirty years, they have been predicting that new technologies were about to create a utopian civilisation: the information society. For instance, the Tofflers have long been convinced that the convergence of computing, telecommunications and the media would free individuals from the clutches of both big business and big government.</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
     <Footnote>
@@ -2486,18 +2489,13 @@
     </Footnote>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> As the Net spreads across the world, the material and spiritual values of American neo-liberalism will eventually be imposed on the whole of humanity. As Louis Rossetto – the founding editor of </Content>
+    <Content> As the Net spreads across the world, the material and spiritual values of American neoliberalism will eventually be imposed on the whole of humanity. As Louis Rossetto – the founding editor of </Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
     <Content>Wired</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> – explains:</Content>
-  </CharacterStyleRange><Br />
-</ParagraphStyleRange>
-<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
-  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>This new world [of the Net] is characterised by a new global economy that is inherently anti-hierarchical and decentralist, and that disrespects national boundaries or the control of politicians and bureaucrats () and by a global, networked consciousness () that is turning () bankrupt electoral politics () into a dead end.</Content>
+    <Content> – explains: 'This new world [of the Net] is characterised by a new global economy that is inherently anti-hierarchical and decentralist, and that disrespects national boundaries or the control of politicians and bureaucrats () and by a global, networked consciousness () that is turning () bankrupt electoral politics () into a dead end.'</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
     <Footnote>
@@ -3219,7 +3217,7 @@
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-    <Content>The results of the Five-Year Plan [of industrialisation] have shown that the capitalist system () has become obsolete and must give way to another, higher, Soviet, socialist system ()</Content>
+    <Content>The results of the Five-Year Plan [of industrialisation] have shown that the capitalist system () has become obsolete and must give way to another, higher, Soviet, socialist system ().</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
     <Footnote>
@@ -3299,7 +3297,7 @@
     </Footnote>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> Almost all radicals believed that this Stalinist version of communism had been proved both in the factory and on the battlefield. Once the Cold War started, any other interpretations were marginalised. For nearly fifty years, the imperial rivalry between the two superpowers was expressed as a fierce ideological conflict: Russian communism versus American capitalism.</Content>
+    <Content> Almost all radicals believed that this Stalinist version of communism had been proved both in the factory and on the battlefield. Once the Cold War started, any other interpretation was marginalised. For nearly fifty years, the imperial rivalry between the two superpowers was expressed as a fierce ideological conflict: Russian communism versus American capitalism.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
@@ -3697,7 +3695,7 @@
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Like its erstwhile opponent, American neo-liberalism is now also being undermined by the development of the forces of production. As predicted by Saint-Simon, the full potential of recent technological and social advances cannot be realised within the traditional hierarchies of capitalism. According to the proponents of the Californian Ideology, the Net is founded upon the buying and selling of information goods and services. Only through market competition can individual desires be satisfied. Yet, when they go online, Net users are primarily engaged in giving and receiving information as gifts. Quite spontaneously, people are adopting more democratic methods of working together within cyberspace.</Content>
+    <Content>Like its erstwhile opponent, American neoliberalism is now also being undermined by the development of the forces of production. As predicted by Saint-Simon, the full potential of recent technological and social advances cannot be realised within the traditional hierarchies of capitalism. According to the proponents of the Californian Ideology, the Net is founded upon the buying and selling of information goods and services. Only through market competition can individual desires be satisfied. Yet, when they go online, Net users are primarily engaged in giving and receiving information as gifts. Quite spontaneously, people are adopting more democratic methods of working together within cyberspace.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
@@ -4037,7 +4035,7 @@
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Under capitalism, most goods and services are produced as commodities. If they’re tangible objects or temporary actions, this social transformation is usually unproblematic. However, the commodification of intellectual labour has always been more difficult. While teaching and entertaining are like other services, publications are very different from other goods. Most of work to create an information product is expended in making the first copy. Even with the earliest printing presses, the cost of producing each subsequent copy is always much cheaper. In an open market, publishers would be encouraged to plagiarise existing works rather than paying for new material. The first capitalist nations quickly discovered a pragmatic solution to this economic problem: copyright. Although everyone could buy cultural artefacts, the right to reproduce them was limited by law. Like every other form of work, intellectual labour could now be enclosed into a commodity.</Content>
+    <Content>Under capitalism, most goods and services are produced as commodities. If they’re tangible objects or temporary actions, this social transformation is usually unproblematic. However, the commodification of intellectual labour has always been more difficult. While teaching and entertaining are like other services, publications are very different from other goods. Most of the work to create an information product is expended in making the first copy. Even with the earliest printing presses, the cost of producing each subsequent copy is always much cheaper. In an open market, publishers would be encouraged to plagiarise existing works rather than paying for new material. The first capitalist nations quickly discovered a pragmatic solution to this economic problem: copyright. Although everyone could buy cultural artefacts, the right to reproduce them was limited by law. Like every other form of work, intellectual labour could now be enclosed into a commodity.</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
     <Footnote>
@@ -4297,7 +4295,7 @@
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>The pleasure of giving and receiving gifts can radically change the personal experience of collective labour. Within the marketplace, individuals primarily collaborate through the impersonal exchange of commodities. The buyers and sellers should remain unconcerned about each other’s fate. In contrast, the circulation of gifts encourages friendships between its participants. The construction of a successful network community is always a labour of love. Working within cyber-communism can be not only more productive, but also more enjoyable than digital capitalism. According to Howard Rheingold, these social benefits of the hi-tech gift economy are not confined to the Net. Despite all their wealth, many Americans are suffering from the isolation and alienation imposed by market competition. Luckily, some can now find friendship and intimacy within network communities. Since there is no necessity for the enclosure of collective labour within cyberspace, Americans can compensate for the damage caused by their nation’s ‘loss of a sense of a social commons.’</Content>
+    <Content>The pleasure of giving and receiving gifts can radically change the personal experience of collective labour. Within the marketplace, individuals primarily collaborate through the impersonal exchange of commodities. The buyers and sellers should remain unconcerned about each other’s fate. In contrast, the circulation of gifts encourages friendships between its participants. The construction of a successful network community is always a labour of love. Working within cyber-communism can be not only more productive, but also more enjoyable than digital capitalism. According to Howard Rheingold, these social benefits of the hi-tech gift economy are not confined to the Net. Despite all their wealth, many Americans are suffering from the isolation and alienation imposed by market competition. Luckily, some can now find friendship and intimacy within network communities. Since there is no necessity for the enclosure of collective labour within cyberspace, Americans can compensate for the damage caused by their nation’s ‘loss of a sense of a social commons’.</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
     <Footnote>
@@ -4424,7 +4422,7 @@
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-    <Content>you assume that bugs are generally shallow phenomena – or, at least, that they turn pretty shallow when exposed to a thousand eager co-developers pounding on every single new release.</Content>
+    <Content>[Y]ou assume that bugs are generally shallow phenomena – or, at least, that they turn pretty shallow when exposed to a thousand eager co-developers pounding on every single new release.</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
     <Footnote>
@@ -4532,7 +4530,7 @@
           <Content>Time Digital,</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content> 12 May 1999, http://web.archive.org/web/20000818213338/http://www.time.com/time/digital/daily/0,2822,24585,00.html.</Content>
+          <Content> 12 May 1999, http://www.time.com/time/digital/daily/0,2822,24585,00.html.</Content>
         </CharacterStyleRange><Br />
       </ParagraphStyleRange>
     </Footnote>
@@ -4898,7 +4896,7 @@
     <Content>consummation</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> of () private property.’</Content>
+    <Content> of () private property’.</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
     <Footnote>
@@ -5575,5 +5573,11 @@
 </ParagraphStyleRange>
 
   </Story>
-  
+  <HyperlinkURLDestination Self="HyperlinkURLDestination/http%3a//archive.wired.com/wired/archive/1.03/kapor.on.nii.html" Name="link" DestinationURL="http://archive.wired.com/wired/archive/1.03/kapor.on.nii.html" DestinationUniqueKey="1" />
+  <Hyperlink Self="uf-1" Name="http://archive.wired.com/wired/archive/1.03/kapor.on.nii.html" Source="htss-1" Visible="true" DestinationUniqueKey="1">
+    <Properties>
+      <BorderColor type="enumeration">Black</BorderColor>
+      <Destination type="object">HyperlinkURLDestination/http%3a//archive.wired.com/wired/archive/1.03/kapor.on.nii.html</Destination>
+    </Properties>
+  </Hyperlink>
 </Document>
