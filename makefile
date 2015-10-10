@@ -32,7 +32,6 @@ markdowns:$(alldocx) # convert docx to md
 	       	--atx-headers \
 		--template=essay.md.template \
 		-o $$md ; \
-	./scripts/md_unique_footnotes.py $$md ; \
 	done
 
 
@@ -65,12 +64,15 @@ scribus: $(allmarkdown)
 book.md: clean $(allmarkdown)
 	for i in $(allmarkdown) ; \
 	do ./scripts/md_stripmetada.py $$i >> md/book.md ; \
-	./scripts/md_urlize.py md/book.md ; \
 	done
+
+# 	./scripts/md_urlize.py md/book.md ; \
 #Note: md_urlize.py script requires Django to be installed
 
 
-book.epub: clean $(allmarkdown) book.md epub/metadata.xml epub/styles.epub.css epub/cover.png
+#  ./scripts/md_unique_footnotes.py $$i ; \
+
+book.epub: epub/metadata.xml epub/styles.epub.css epub/cover.png
 	cd md && pandoc \
 		--from markdown \
 		--to epub3 \
@@ -89,10 +91,9 @@ book.epub: clean $(allmarkdown) book.md epub/metadata.xml epub/styles.epub.css e
 		--epub-embed-font=../lib/Raleway-Regular.otf \
 		-o ../book.epub \
 		book.md ; \
+		cd .. \ ;
+		python scripts/epub_process.py book.epub ; \
 		done
-#		cd .. \ ;
-#		python scripts/epub_process.py book.epub ;
-#		done
 
 
 clean:  # remove outputs

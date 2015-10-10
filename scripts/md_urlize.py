@@ -51,10 +51,10 @@ for line in  input_file_lines:
 
     else:
         edited_text = edited_text + line
+print edited_text.encode('utf-8')
 
-
-edited_file = open(input_filename, 'w') #write
-edited_file.write(edited_text.encode("utf-8"))
-edited_file.close()
+# edited_file = open(input_filename, 'w') #write
+# edited_file.write(edited_text.encode("utf-8"))
+# edited_file.close()
 
 

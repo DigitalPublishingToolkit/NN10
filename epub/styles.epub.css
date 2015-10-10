@@ -74,7 +74,6 @@ h1 {
 h2{
     font-family: 'Archivo', sans-serif;
     font-size:1.5em;
-    line-height:0m;
     font-weight: normal;
 }
 
@@ -82,7 +81,6 @@ h2{
 h3{
     font-family: 'Archivo', sans-serif;
     font-size:1.2em;
-    line-height:0m;
     padding-bottom: 0.1em;
     font-weight: normal;
 }
@@ -91,7 +89,6 @@ h3{
 h4{
     font-family: 'Archivo', sans-serif;
     font-size:1.0em;
-    line-height:0m;
     padding-bottom: 0.1em;
     font-weight: normal;
 }
@@ -144,7 +141,7 @@ li {
 
 section.footnotes li {
     padding-top:0px;
-    padding-bottom:0px;
+     padding-bottom:0px;
 }
 
 
@@ -203,7 +200,7 @@ span.white, span.list-level1, span.list-level2, span.list-title, span.colophon, 
     padding-left:0px;
     padding-top:5px;
     padding-bottom:5px;
-    padding-right:0px;
+        padding-right:0px;
     line-height: 1.2em;
 }
 
@@ -290,7 +287,7 @@ section.level1#colophon p {
 section.level1#contents p {
     font-family: 'Archivo', sans-serif;
     font-size:1.2em;
-    line-height:1.3m;
+    line-height: normal /*1.3m*/;
     padding-bottom: 0.1em;
     font-weight: normal;
 }

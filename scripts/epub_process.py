@@ -91,12 +91,12 @@ for f in temp_ls: #loop epub contained files
             content_file=f,
             tree=xhtml_parsed )
         
-    elif f == 'content.opf': # the opf
-        filename = "temp/"+f
-        xhtml = open("temp/"+f, "r")
-        tree = spine(filename)
-        ET.register_namespace('', 'http://www.idpf.org/2007/opf')
-        tree.write(filename, encoding='utf-8', xml_declaration='True' )
+    # elif f == 'content.opf': # the opf
+    #     filename = "temp/"+f
+    #     xhtml = open("temp/"+f, "r")
+    #     tree = spine(filename)
+    #     ET.register_namespace('', 'http://www.idpf.org/2007/opf')
+    #     tree.write(filename, encoding='utf-8', xml_declaration='True' )
         
 # Step 3: zip epub
 epub = zipfile.ZipFile("book.epub", "w")

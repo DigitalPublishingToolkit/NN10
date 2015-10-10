@@ -14,7 +14,7 @@ Miriam Rasch
 <span class="white">If you want to order copies please contact:  
 Institute of Network Cultures, Hogeschool van Amsterdam  
 <http://www.networkcultures.org>  
-books@networkcultures.org  
+<a href="mailto:books@networkcultures.org">books@networkcultures.org</a>  
 t: +31 (0)20 59 51 865</span>
 
 <span class="white">**EPUB and PDF editions of this publication are
