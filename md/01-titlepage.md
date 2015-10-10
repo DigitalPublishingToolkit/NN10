@@ -29,21 +29,13 @@ mutating into gifts. Invented in capitalist America, the Net in the
 late-1990s had become the first working model of communism in human
   history.</span>
 
-<span class="white">In an introduction written specially for this 20th anniversary edition,
-Richard Barbrook takes a fresh look at the hippie capitalists who shaped
+<span class="white">In an introduction written specially for this 20th anniversary edition, Richard Barbrook takes a fresh look at the hippie capitalists who shaped
 Silicon Valley and explains how their influence continues to this day.
 These thought probes are still relevant in understanding the
 contradictory impact of ubiquitous social media within the modern world.
-As McLuhan had insisted, theoretical provocation creates political
-  understanding.</span>
+As McLuhan had insisted, theoretical provocation creates political understanding.</span>
 
-<span class="white">**Richard Barbrook** is Senior Lecturer in the Department of Politics
-and International Relations at the University of Westminster, London,
-England. He is a trustee of Cybersalon and a founder member of Class
-Wargames. He has written about the politics of the Net and gaming in his
-books *Media Freedom: The Contradictions of Communications in the Age of
-Modernity*; *The Class of the New*; *Imaginary Futures: From Thinking
-Machines to the Global Village*; and *Class Wargames: Ludic Subversion
-  Against Spectacular Capitalism*.</span>
+<span class="white">Richard Barbrook is a senior lecturer in the Faculty of Social Sciences and Humanities at the University of Westminster. In the early 1980s, he was involved with pirate and community radio broadcasting. His wrote extensively on the Net in his books Media Freedom, The Hi-Tech Gift Economy, Cyber-communism, The Regulation of Liberty, The Class of the New and Imaginary Futures. In 2014, his book about Situationist gaming was published, Class Wargames: Ludic Subversion Against Spectacular Capitalism.</span>
+
 
 <div class="background">![](imgs/background.png)</div>
