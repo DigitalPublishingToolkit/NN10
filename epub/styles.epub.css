@@ -296,3 +296,8 @@ section.level1#inc-publications h1 { display:none !important;}
 
 /* NN10 */
 section.level1#dedication h1 { display:none !important;}
+
+section.level1#contents p { line-height:2em;}
+
+p#beer { margin-top: 6em;}
+
