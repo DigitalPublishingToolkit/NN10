@@ -1,10 +1,10 @@
 # Contents
 
-**[The Owl of Minerva Flies at Dusk](ch006.xhtml)** Richard Barbrook
+<span class="white">[The Owl of Minerva Flies at Dusk](ch006.xhtml) Richard Barbrook</span>
 
-**[The Californian Ideology](ch007.xhtml)** Richard Barbrook & Andy Cameron
+  <span class="white">[The Californian Ideology](ch007.xhtml) Richard Barbrook & Andy Cameron</span>
 
-**[Cyber-Communism: How the Americans Are Superseding Capitalism in Cyberspace](ch008.xhtml)** Richard Barbrook
+  <span class="white">[Cyber-Communism: How the Americans Are Superseding Capitalism in Cyberspace](ch008.xhtml) Richard Barbrook</span>
 
 
 

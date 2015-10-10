@@ -2226,6 +2226,8 @@ Robin Hamman, Roya Jakoby, Simon Schaffer, Vuk Cosic, Warwick Metcalfe
 and the staff & students of the Hypermedia Research Centre, University
 of Westminster, London.
 
+
+
 [^1]: For over 25 years, experts have been predicting the imminent
     arrival of the information age, see Alain Touraine, *La Société
     Post-Industrielle*, Paris: Editions Denoël, 1969; Zbigniew
@@ -2867,3 +2869,7 @@ of Westminster, London.
 
 [^138]: Marx, *A Contribution to the Critique of Political Economy*, pp.
     21-22.
+
+# INC Publications
+
+<div class="publications"><a href="http://networkcultures.org/publications/">![](imgs/backcover.png)</a></div>
