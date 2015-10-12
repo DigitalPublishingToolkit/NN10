@@ -4,6 +4,11 @@
 <Document DOMVersion="8.0" Self="pandoc_doc">
     <RootCharacterStyleGroup Self="pandoc_character_styles">
       <CharacterStyle Self="$ID/NormalCharacterStyle" Name="Default" />
+      <CharacterStyle Self="CharacterStyle/" Name="">
+        <Properties>
+          <BasedOn type="object">$ID/NormalCharacterStyle</BasedOn>
+        </Properties>
+      </CharacterStyle>
       <CharacterStyle Self="CharacterStyle/Italic" Name="Italic" FontStyle="Italic">
         <Properties>
           <BasedOn type="object">$ID/NormalCharacterStyle</BasedOn>
@@ -184,7 +189,7 @@
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-    <Content>we have no future. () Fully imagined futures were the luxury of another day, one in which “now” was of some greater duration. For us, of course, things change so abruptly, so violently, so profoundly, that futures like our grandparents’ have insufficient “now” to stand on. We have no future because our present is too volatile.</Content>
+    <Content>…we have no future. (…) Fully imagined futures were the luxury of another day, one in which “now” was of some greater duration. For us, of course, things change so abruptly, so violently, so profoundly, that futures like our grandparents’ have insufficient “now” to stand on. We have no future because our present is too volatile.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
@@ -447,7 +452,7 @@
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header2">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>As the Dam Bursts</Content>
+    <Content>As the Dam Bursts…</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
@@ -795,7 +800,7 @@
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-    <Content>Electronic media () abolish the spatial dimension () By electricity, we everywhere resume person-to-person relations as if on the smallest village scale. It is a relation in depth, and without delegation of functions or powers () Dialogue supersedes the lecture.</Content>
+    <Content>Electronic media (…) abolish the spatial dimension (…) By electricity, we everywhere resume person-to-person relations as if on the smallest village scale. It is a relation in depth, and without delegation of functions or powers (…) Dialogue supersedes the lecture.</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
     <Footnote>
@@ -876,7 +881,7 @@
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>The Californian Ideology derives its popularity from the very ambiguity of its precepts. Over the last few decades, the pioneering work of the community media activists has been largely recuperated by the hi-tech and media industries. Although companies in these sectors can mechanise and sub-contract much of their labour needs, they remain dependent on key people who can research and create original products, from software programs and computer chips to books and TV programmes. Along with some hi-tech entrepreneurs, these digital artisans form the so-called ‘virtual class’: ‘the techno-intelligentsia of cognitive scientists, engineers, computer scientists, video-game developers, and all the other communications specialists’</Content>
+    <Content>The Californian Ideology derives its popularity from the very ambiguity of its precepts. Over the last few decades, the pioneering work of the community media activists has been largely recuperated by the hi-tech and media industries. Although companies in these sectors can mechanise and sub-contract much of their labour needs, they remain dependent on key people who can research and create original products, from software programs and computer chips to books and TV programmes. Along with some hi-tech entrepreneurs, these digital artisans form the so-called ‘virtual class’: ‘…the techno-intelligentsia of cognitive scientists, engineers, computer scientists, video-game developers, and all the other communications specialists…’</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
     <Footnote>
@@ -992,7 +997,7 @@
           <Content>	</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>As Seymour Martin Lipset points out, anti-statism liberalism has – and still is – the underlying basis of American politics on both the Right and the Left: ‘These [liberal] values were evident in the 20th century fact that () the United States not only lacked a viable socialist party, but also has never developed a British or European-style Conservative or Tory party.’ See Seymour Martin Lipset, </Content>
+          <Content>As Seymour Martin Lipset points out, anti-statism liberalism has – and still is – the underlying basis of American politics on both the Right and the Left: ‘These [liberal] values were evident in the 20th century fact that (…) the United States not only lacked a viable socialist party, but also has never developed a British or European-style Conservative or Tory party.’ See Seymour Martin Lipset, </Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
           <Content>American Exceptionalism: A Double-Edged Sword</Content>
@@ -1098,7 +1103,7 @@
           <Content>The Illuminati Trilogy</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>, New York: Dell, 1975. In the time chart of ‘future history’ at the front of Robert Heinlein’s novel, it predicts that, after a period of social crisis caused by rapid technological advance, stability would be restored in the 1980s and 1990s through ‘an opening of new frontiers and a return to nineteenth-century economy’! Heinlein, </Content>
+          <Content>, New York: Dell, 1975. In the time chart of ‘future history’ at the front of Robert Heinlein’s novel, it predicts that, after a period of social crisis caused by rapid technological advance, stability would be restored in the 1980s and 1990s through ‘…an opening of new frontiers and a return to nineteenth-century economy’! Heinlein, </Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
           <Content>The Man Who Sold the Moon</Content>
@@ -1235,7 +1240,7 @@
     <Content>electronic marketplace</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>: ‘In cyberspace () market after market is being transformed by technological progress from a “natural monopoly” to one in which competition is the rule.’</Content>
+    <Content>: ‘In cyberspace (…) market after market is being transformed by technological progress from a “natural monopoly” to one in which competition is the rule.’</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
     <Footnote>
@@ -1301,7 +1306,7 @@
     </Footnote>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> As in Heinlein’s and Asimov’s sci-fi novels, the path forwards to the future seems to lead back to the past. The 21st century information age will be the realisation of the 18th century liberal ideals of Thomas Jefferson: ‘() the () creation of a new civilisation, founded in the eternal truths of the American Idea.'</Content>
+    <Content> As in Heinlein’s and Asimov’s sci-fi novels, the path forwards to the future seems to lead back to the past. The 21st century information age will be the realisation of the 18th century liberal ideals of Thomas Jefferson: ‘(…) the (…) creation of a new civilisation, founded in the eternal truths of the American Idea.'</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
     <Footnote>
@@ -1321,7 +1326,7 @@
           <Content>Cyberspace and the American Dream</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>, p. 13. Toffler and friends also proudly proclaim that: ‘America () remains the land of individual freedom, and this freedom clearly extends to cyberspace’, Progress and Freedom Foundation, </Content>
+          <Content>, p. 13. Toffler and friends also proudly proclaim that: ‘America (…) remains the land of individual freedom, and this freedom clearly extends to cyberspace’, Progress and Freedom Foundation, </Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
           <Content>Cyberspace and the American Dream</Content>
@@ -1458,7 +1463,7 @@
           <Content>	</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>As President Clinton’s Labour Secretary puts it: ‘Recall that through the post-war era the Pentagon has quietly been in charge of helping American corporations move ahead with technologies like jet engines, airframes, transistors, integrated circuits, new materials, lasers, and optic fibres () The Pentagon and the 600 national laboratories which work with it and with the Department of Energy are the closest thing America has to Japan’s well-known Ministry of International Trade and Industry.’ Reich, </Content>
+          <Content>As President Clinton’s Labour Secretary puts it: ‘Recall that through the post-war era the Pentagon has quietly been in charge of helping American corporations move ahead with technologies like jet engines, airframes, transistors, integrated circuits, new materials, lasers, and optic fibres (…) The Pentagon and the 600 national laboratories which work with it and with the Department of Energy are the closest thing America has to Japan’s well-known Ministry of International Trade and Industry.’ Reich, </Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
           <Content>The Work of Nations</Content>
@@ -1650,13 +1655,13 @@
           <Content>	</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>Thomas Jefferson believed that people of African descent could not be members of the Lockean social contract which bound together citizens of the American republic. One commentator explains his hypocritical philosophical justification for this racist position: ‘The rights of man () while theoretically and ideally the birth right of every human being, applied in practice in the United States only to white men: the black slaves were excluded from consideration because, while admittedly human beings, they were also property, and where the rights of man conflicted with the rights of property, property took precedence.’ John Miller, </Content>
+          <Content>Thomas Jefferson believed that people of African descent could not be members of the Lockean social contract which bound together citizens of the American republic. One commentator explains his hypocritical philosophical justification for this racist position: ‘The rights of man (…) while theoretically and ideally the birth right of every human being, applied in practice in the United States only to white men: the black slaves were excluded from consideration because, while admittedly human beings, they were also property, and where the rights of man conflicted with the rights of property, property took precedence.’ John Miller, </Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
           <Content>The Wolf by the Ears: Thomas Jefferson and Slavery</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>, New York: Free Press, 1977, p. 13. Jefferson’s opposition to slavery was at best rhetorical. In a letter of 22 April 1820, he disingenuously suggested that the best way to encourage the abolition of slavery would be to legalise the private ownership of human beings in all States of the Union and the frontier territories! He claimed that ‘their diffusion over a greater surface would make them individually happier, and proportionally facilitate the accomplishment of their emancipation, by dividing the burden on a greater number of coadjutors [i.e. slave-owners].’ Merill Peterson (ed.), </Content>
+          <Content>, New York: Free Press, 1977, p. 13. Jefferson’s opposition to slavery was at best rhetorical. In a letter of 22 April 1820, he disingenuously suggested that the best way to encourage the abolition of slavery would be to legalise the private ownership of human beings in all States of the Union and the frontier territories! He claimed that ‘…their diffusion over a greater surface would make them individually happier, and proportionally facilitate the accomplishment of their emancipation, by dividing the burden on a greater number of coadjutors [i.e. slave-owners].’ Merill Peterson (ed.), </Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
           <Content>The Portable Thomas Jefferson</Content>
@@ -2267,7 +2272,7 @@
           <Content>	</Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-          <Content>As Goldie, a London DJ, puts it: ‘We have to take it forwards and take the drums ’n’ bass and push it and push it and push it. I remember when we were saying that it couldn’t be pushed anymore. It’s been pushed tenfold since then’ Tony Marcus, ‘The War is Over’, </Content>
+          <Content>As Goldie, a London DJ, puts it: ‘We have to take it forwards and take the drums ’n’ bass and push it and push it and push it. I remember when we were saying that it couldn’t be pushed anymore. It’s been pushed tenfold since then…’ Tony Marcus, ‘The War is Over’, </Content>
         </CharacterStyleRange>
         <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
           <Content>Mixmag</Content>
@@ -2316,7 +2321,7 @@
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-    <Content>Present circumstances favour making luxury national. Luxury will become useful and moral when it is enjoyed by the whole nation. The honour and advantage of employing directly, in political arrangements, the progress of exact sciences and the fine arts () have been reserved for our century.</Content>
+    <Content>Present circumstances favour making luxury national. Luxury will become useful and moral when it is enjoyed by the whole nation. The honour and advantage of employing directly, in political arrangements, the progress of exact sciences and the fine arts (…) have been reserved for our century.</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
     <Footnote>
@@ -2354,7 +2359,7 @@
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-    <Content>is the impact of the () information revolution on capitalism not the ultimate exemplification of () Marx’s thesis that: “at a certain stage of their development, the material productive forces come into conflict with the existing relations of production ()”? () does the prospect of the () “global village” not signal the end of market relations () at least in the sphere of digitalised information?</Content>
+    <Content>…is the impact of the (…) information revolution on capitalism not the ultimate exemplification of (…) Marx’s thesis that: “at a certain stage of their development, the material productive forces come into conflict with the existing relations of production (…)”? (…) does the prospect of the (…) “global village” not signal the end of market relations (…) at least in the sphere of digitalised information?</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/BulList &gt; first" NumberingContinue="false">
@@ -2495,7 +2500,7 @@
     <Content>Wired</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> – explains: 'This new world [of the Net] is characterised by a new global economy that is inherently anti-hierarchical and decentralist, and that disrespects national boundaries or the control of politicians and bureaucrats () and by a global, networked consciousness () that is turning () bankrupt electoral politics () into a dead end.'</Content>
+    <Content> – explains: 'This new world [of the Net] is characterised by a new global economy that is inherently anti-hierarchical and decentralist, and that disrespects national boundaries or the control of politicians and bureaucrats (…) and by a global, networked consciousness (…) that is turning (…) bankrupt electoral politics (…) into a dead end.'</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
     <Footnote>
@@ -2559,7 +2564,7 @@
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-    <Content>Internet stocks () may be the hottest things since the Dutch tulip-bulb craze in the 1600s.</Content>
+    <Content>Internet stocks (…) may be the hottest things since the Dutch tulip-bulb craze in the 1600s.</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
     <Footnote>
@@ -3217,7 +3222,7 @@
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-    <Content>The results of the Five-Year Plan [of industrialisation] have shown that the capitalist system () has become obsolete and must give way to another, higher, Soviet, socialist system ().</Content>
+    <Content>The results of the Five-Year Plan [of industrialisation] have shown that the capitalist system (…) has become obsolete and must give way to another, higher, Soviet, socialist system (…).</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
     <Footnote>
@@ -3667,7 +3672,7 @@
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-    <Content>The [Stalinist] communist revolution () has brought about a measure of industrial civilisation to vast areas of Europe and Asia. In this way, material bases have actually been created for a future freer society. Thus, while bringing about the most complete despotism, the [Stalinist] communist revolution has also created the basis for the abolition of despotism.</Content>
+    <Content>The [Stalinist] communist revolution (…) has brought about a measure of industrial civilisation to vast areas of Europe and Asia. In this way, material bases have actually been created for a future freer society. Thus, while bringing about the most complete despotism, the [Stalinist] communist revolution has also created the basis for the abolition of despotism.</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
     <Footnote>
@@ -3825,7 +3830,7 @@
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-    <Content>The rationality of professional services is not the same as the rationality of the market () In the professions, and especially in science, the abdication of moral control would disrupt the system. The producer of professional services must be () responsible for his products, and it is fitting that he not be alienated from them.</Content>
+    <Content>The rationality of professional services is not the same as the rationality of the market (…) In the professions, and especially in science, the abdication of moral control would disrupt the system. The producer of professional services must be (…) responsible for his products, and it is fitting that he not be alienated from them.</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
     <Footnote>
@@ -3920,7 +3925,7 @@
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-    <Content>In an information space, we can consider the authorship of materials, and their perception; but () there is a need for the underlying infrastructure to be able to make copies simply for reasons of efficiency and reliability. The concept of “copyright” as expressed in terms of copies made makes little sense.</Content>
+    <Content>In an information space, we can consider the authorship of materials, and their perception; but (…) there is a need for the underlying infrastructure to be able to make copies simply for reasons of efficiency and reliability. The concept of “copyright” as expressed in terms of copies made makes little sense.</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
     <Footnote>
@@ -4295,7 +4300,7 @@
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>The pleasure of giving and receiving gifts can radically change the personal experience of collective labour. Within the marketplace, individuals primarily collaborate through the impersonal exchange of commodities. The buyers and sellers should remain unconcerned about each other’s fate. In contrast, the circulation of gifts encourages friendships between its participants. The construction of a successful network community is always a labour of love. Working within cyber-communism can be not only more productive, but also more enjoyable than digital capitalism. According to Howard Rheingold, these social benefits of the hi-tech gift economy are not confined to the Net. Despite all their wealth, many Americans are suffering from the isolation and alienation imposed by market competition. Luckily, some can now find friendship and intimacy within network communities. Since there is no necessity for the enclosure of collective labour within cyberspace, Americans can compensate for the damage caused by their nation’s ‘loss of a sense of a social commons’.</Content>
+    <Content>The pleasure of giving and receiving gifts can radically change the personal experience of collective labour. Within the marketplace, individuals primarily collaborate through the impersonal exchange of commodities. The buyers and sellers should remain unconcerned about each other’s fate. In contrast, the circulation of gifts encourages friendships between its participants. The construction of a successful network community is always a labour of love. Working within cyber-communism can be not only more productive, but also more enjoyable than digital capitalism. According to Howard Rheingold, these social benefits of the hi-tech gift economy are not confined to the Net. Despite all their wealth, many Americans are suffering from the isolation and alienation imposed by market competition. Luckily, some can now find friendship and intimacy within network communities. Since there is no necessity for the enclosure of collective labour within cyberspace, Americans can compensate for the damage caused by their nation’s ‘…loss of a sense of a social commons’.</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
     <Footnote>
@@ -4422,7 +4427,7 @@
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-    <Content>[Y]ou assume that bugs are generally shallow phenomena – or, at least, that they turn pretty shallow when exposed to a thousand eager co-developers pounding on every single new release.</Content>
+    <Content>…[Y]ou assume that bugs are generally shallow phenomena – or, at least, that they turn pretty shallow when exposed to a thousand eager co-developers pounding on every single new release.</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
     <Footnote>
@@ -4884,7 +4889,7 @@
     </Footnote>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> Most famously, this bizarre union of opposites underpins the frenzied speculation in Net stocks. Each moment of interactive creativity is a potential source of profits. If the correct hybrid of gift and commodity can be found, collective labour will immediately transmute into individual wealth. Excited by the riches of some cyber-entrepreneurs, many Americans are now speculating on the same assumption about the Net: ‘communism is () a </Content>
+    <Content> Most famously, this bizarre union of opposites underpins the frenzied speculation in Net stocks. Each moment of interactive creativity is a potential source of profits. If the correct hybrid of gift and commodity can be found, collective labour will immediately transmute into individual wealth. Excited by the riches of some cyber-entrepreneurs, many Americans are now speculating on the same assumption about the Net: ‘…communism is (…) a </Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
     <Content>generalisation</Content>
@@ -4896,7 +4901,7 @@
     <Content>consummation</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> of () private property’.</Content>
+    <Content> of (…) private property’.</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
     <Footnote>
@@ -5190,7 +5195,7 @@
     </Footnote>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content> Updating this tradition for the Net, most Americans simply ignore the widening discrepancy between their political beliefs and their everyday activities. Although forced to talk like neoliberals, they often choose to act like communists within cyberspace. For the literal application of the Californian Ideology would immediately remove many of the benefits of the Net. Not surprisingly, few Americans will openly admit to their pleasure in sinning against the national myth. While the reformist demand for a public health system remains obviously left-wing, the subversive implications of circulating information as gifts are literally unthinkable. Without any self-doubt, Eric Raymond can be simultaneously a passionate advocate of the decommodisation of software and ‘a self-described neo-pagan [right-wing] libertarian who enjoys shooting semi-automatic weapons’</Content>
+    <Content> Updating this tradition for the Net, most Americans simply ignore the widening discrepancy between their political beliefs and their everyday activities. Although forced to talk like neoliberals, they often choose to act like communists within cyberspace. For the literal application of the Californian Ideology would immediately remove many of the benefits of the Net. Not surprisingly, few Americans will openly admit to their pleasure in sinning against the national myth. While the reformist demand for a public health system remains obviously left-wing, the subversive implications of circulating information as gifts are literally unthinkable. Without any self-doubt, Eric Raymond can be simultaneously a passionate advocate of the decommodisation of software and ‘…a self-described neo-pagan [right-wing] libertarian who enjoys shooting semi-automatic weapons…’</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
     <Footnote>
@@ -5320,7 +5325,7 @@
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-    <Content>Work is born from the Desire for Recognition () and it preserves itself and evolves in relation to this same Desire.</Content>
+    <Content>…Work is born from the Desire for Recognition (…) and it preserves itself and evolves in relation to this same Desire.</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
     <Footnote>
@@ -5432,7 +5437,7 @@
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Blockquote &gt; Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-    <Content>No social order is ever destroyed before all the productive forces for which it is sufficient have been developed, and new superior relations of production never replace older ones before the material conditions for their existence have matured within the framework of the old society. () The bourgeois mode of production is the last antagonistic form of the social process of production – () an antagonism that emanates from the individuals’ social conditions of existence – but the productive forces developing within bourgeois society create also the material conditions for a solution of this antagonism. The prehistory of humanity accordingly closes with this social formation.</Content>
+    <Content>No social order is ever destroyed before all the productive forces for which it is sufficient have been developed, and new superior relations of production never replace older ones before the material conditions for their existence have matured within the framework of the old society. (…) The bourgeois mode of production is the last antagonistic form of the social process of production – (…) an antagonism that emanates from the individuals’ social conditions of existence – but the productive forces developing within bourgeois society create also the material conditions for a solution of this antagonism. The prehistory of humanity accordingly closes with this social formation.</Content>
   </CharacterStyleRange>
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle" Position="Superscript">
     <Footnote>
@@ -5569,6 +5574,38 @@
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
     <Content>Respect due: Andrej Skerlep, Andy Allenson, Andy Cameron, Christopher May, Dick Pountain, John Armitage, John Barker, Helen Barbrook, Jim McLellan, John Barker, John Wyver, Lance Strate, Les Levidow, Luther Blissett, Maren Hartmann, nettime, Rhiannon Patterson, Rishab Ghosh, Robin Hamman, Roya Jakoby, Simon Schaffer, Vuk Cosic, Warwick Metcalfe and the staff &amp; students of the Hypermedia Research Centre, University of Westminster, London.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Header1">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>INC Publications</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Rectangle Self="uec" ItemTransform="1 0 0 1 75 -50">
+      <Properties>
+        <PathGeometry>
+          <GeometryPathType PathOpen="false">
+            <PathPointArray>
+              <PathPointType Anchor="-75 -50" LeftDirection="-75 -50" RightDirection="-75 -50" />
+              <PathPointType Anchor="-75 50" LeftDirection="-75 50" RightDirection="-75 50" />
+              <PathPointType Anchor="75 50" LeftDirection="75 50" RightDirection="75 50" />
+              <PathPointType Anchor="75 -50" LeftDirection="75 -50" RightDirection="75 -50" />
+            </PathPointArray>
+          </GeometryPathType>
+        </PathGeometry>
+      </Properties>
+      <Image Self="ue6" ItemTransform="1.0 0 0 1.0 -75 -50">
+        <Properties>
+          <Profile type="string">
+            $ID/Embedded
+            <GraphicBounds Left="0" Top="0" Right="150" Bottom="100" />
+          </Profile>
+        </Properties>
+        <Link Self="ueb" LinkResourceURI="file:imgs/backcover.png" />
+      </Image>
+    </Rectangle>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 

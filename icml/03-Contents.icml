@@ -4,7 +4,7 @@
 <Document DOMVersion="8.0" Self="pandoc_doc">
     <RootCharacterStyleGroup Self="pandoc_character_styles">
       <CharacterStyle Self="$ID/NormalCharacterStyle" Name="Default" />
-      <CharacterStyle Self="CharacterStyle/Bold Link" Name="Bold Link" FontStyle="Bold">
+      <CharacterStyle Self="CharacterStyle/Link" Name="Link">
         <Properties>
           <BasedOn type="object">$ID/NormalCharacterStyle</BasedOn>
         </Properties>
@@ -56,7 +56,7 @@
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <HyperlinkTextSource Self="htss-1" Name="" Hidden="false">
-    <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold Link">
+    <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>The Owl of Minerva Flies at Dusk</Content>
     </CharacterStyleRange>
   </HyperlinkTextSource>
@@ -66,7 +66,7 @@
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <HyperlinkTextSource Self="htss-2" Name="" Hidden="false">
-    <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold Link">
+    <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>The Californian Ideology</Content>
     </CharacterStyleRange>
   </HyperlinkTextSource>
@@ -76,7 +76,7 @@
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <HyperlinkTextSource Self="htss-3" Name="" Hidden="false">
-    <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold Link">
+    <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Link">
       <Content>Cyber-Communism: How the Americans Are Superseding Capitalism in Cyberspace</Content>
     </CharacterStyleRange>
   </HyperlinkTextSource>

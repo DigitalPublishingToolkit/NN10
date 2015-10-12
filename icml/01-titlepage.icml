@@ -8,6 +8,11 @@
         <Properties>
           <BasedOn type="object">$ID/NormalCharacterStyle</BasedOn>
         </Properties>
+      </CharacterStyle>
+      <CharacterStyle Self="CharacterStyle/Italic" Name="Italic" FontStyle="Italic">
+        <Properties>
+          <BasedOn type="object">$ID/NormalCharacterStyle</BasedOn>
+        </Properties>
       </CharacterStyle> 
     </RootCharacterStyleGroup>
     <RootParagraphStyleGroup Self="pandoc_paragraph_styles">
@@ -93,17 +98,46 @@
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>‘The Californian Ideology’ by Richard Barbrook and Andy Cameron is the symbol of the first wave of internet criticism as embodied by magazines such as Mute, where the essay first was published in 1995, and the nettime mailinglist, where it later appeared as well. The internet might have fundamentally changed in the two following decades, but Barbrook and Cameron’s biting criticism is still highly relevant. Their analysis and questioning of the economic and political agenda of the internet utopia and its prophets remain shocking and provocative. In an introduction written especially for this 20th anniversary edition Richard Barbrook takes a fresh look at the neoliberal hippies that shaped Silicon Valley and shows how their influence continues on to this day.</Content>
+    <Content>Richard Barbrook and Andy Cameron’s </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>The Californian Ideology</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>, originally published in 1995 by </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Mute</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> magazine and the nettime mailinglist, is the iconic text of the first wave of Net criticism. The internet might have fundamentally changed in the last two decades, but their demolition of the neoliberal orthodoxies of Silicon Valley remains shocking and provocative. They question the cult of the dot-com entrepreneur, challenging the theory of technological determinism and refuting the myths of American history. Denounced as the work of ‘looney lefties’ by Silicon Valley’s boosters when it first appeared, </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>The Californian Ideology</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> has since been vindicated by the corporate take-over of the Net and the exposure of the NSA’s mass surveillance programmes.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Written prior to the infiltration of the internet to mass markets, ‘The Californian Ideology’ is a visionary and pioneering critique on the Net neoliberalism movement that made waves through Silicon Valley in the early 90s. Barbrook and Cameron offer a rich perspective on the consequences this movement had for the early rise of the internet empire. They show how the struggle between left and right and their contrasting beliefs spawned a new surge of technological determinism throughout the tech community.</Content>
+    <Content>Published in 1999 at the peak of the dot-com bubble, Richard Barbrook’s </Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+    <Content>Cyber-Communism</Content>
+  </CharacterStyleRange>
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content> offers an alternative vision of the shape of things to come, inspired by Marshall McLuhan’s paradoxical ‘thought probes’. With the Californian Ideology growing stronger, the Net was celebrated as the mechanical perfection of neoliberal economics. Barbrook shows how this futurist prophecy is borrowed from America’s defunct Cold War enemy: Stalinist Russia. Technological progress was the catalyst of social transformation. With copyright weakening, intellectual commodities were mutating into gifts. Invented in capitalist America, the Net in the late-1990s had become the first working model of communism in human history.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
   <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
-    <Content>Published four years later, ‘Cybernet Communism’ Richard Barbrook offers a thought probe to stir up the thinking about tech and Silicon Valley. The Californian Ideologues have for the first time in human history made the only working model of communism possible. Funded by the US military, a Stalinist vision of the promised land has become reality. Looking at the future, this cyber-communism indicates that the free exchange of information and an economy of gifts is the way forward for the Net. </Content>
+    <Content>In an introduction written specially for this 20th anniversary edition, Richard Barbrook takes a fresh look at the hippie capitalists who shaped Silicon Valley and explains how their influence continues to this day. These thought probes are still relevant in understanding the contradictory impact of ubiquitous social media within the modern world. As McLuhan had insisted, theoretical provocation creates political understanding.</Content>
+  </CharacterStyleRange><Br />
+</ParagraphStyleRange>
+<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Paragraph">
+  <CharacterStyleRange AppliedCharacterStyle="$ID/NormalCharacterStyle">
+    <Content>Richard Barbrook is a senior lecturer in the Faculty of Social Sciences and Humanities at the University of Westminster. In the early 1980s, he was involved with pirate and community radio broadcasting. His wrote extensively on the Net in his books Media Freedom, The Hi-Tech Gift Economy, Cyber-communism, The Regulation of Liberty, The Class of the New and Imaginary Futures. In 2014, his book about Situationist gaming was published, Class Wargames: Ludic Subversion Against Spectacular Capitalism.</Content>
   </CharacterStyleRange><Br />
 </ParagraphStyleRange>
 <ParagraphStyleRange AppliedParagraphStyle="">

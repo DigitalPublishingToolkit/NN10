@@ -44,7 +44,7 @@ Stafford Beer, *Brain of the Firm*
 
 <p class="author">Richard Barbrook</p>
 
-*...we have no future. (...) Fully imagined futures were the luxury of
+*…we have no future. (…) Fully imagined futures were the luxury of
 another day, one in which “now” was of some greater duration. For us, of
 course, things change so abruptly, so violently, so profoundly, that
 futures like our grandparents’ have insufficient “now” to stand on. We
@@ -396,7 +396,7 @@ will.*
 
 Naum Gabo and Anton Pevsner, *The Realistic Manifesto* (1920)
 
-## As the Dam Bursts...
+## As the Dam Bursts…
 
 At the end of the 20th century, the long predicted convergence of the
 media, computing and telecommunications into hypermedia is finally
@@ -505,10 +505,10 @@ the power of big business and big government would be imminently
 overthrown by the intrinsically empowering effects of new technology on
 individuals.
 
-> *Electronic media (...) abolish the spatial dimension (...) By
+> *Electronic media (…) abolish the spatial dimension (…) By
 > electricity, we everywhere resume person-to-person relations as if on
 > the smallest village scale. It is a relation in depth, and without
-> delegation of functions or powers (...) Dialogue supersedes the
+> delegation of functions or powers (…) Dialogue supersedes the
 > lecture.*[^10]
 
 Encouraged by McLuhan’s predictions, West Coast radicals became involved
@@ -539,9 +539,9 @@ and sub-contract much of their labour needs, they remain dependent on
 key people who can research and create original products, from software
 programs and computer chips to books and TV programmes. Along with some
 hi-tech entrepreneurs, these digital artisans form the so-called
-‘virtual class’: ‘...the techno-intelligentsia of cognitive scientists,
+‘virtual class’: ‘…the techno-intelligentsia of cognitive scientists,
 engineers, computer scientists, video-game developers, and all the other
-communications specialists...’[^12] Unable to subject them to the
+communications specialists…’[^12] Unable to subject them to the
 discipline of the assembly-line or replace them by machines, managers
 have organised such skilled workers through fixed-term contracts. Like
 the ‘labour aristocracy’ of the 19th century, core personnel in the
@@ -627,7 +627,7 @@ However, although they borrow McLuhan’s technological determinism,
 Gingrich and the Tofflers aren’t advocates of the electronic agora. On
 the contrary, they claim that the convergence of the media, computing
 and telecommunications will produce an *electronic marketplace*: ‘In
-cyberspace (...) market after market is being transformed by
+cyberspace (…) market after market is being transformed by
 technological progress from a “natural monopoly” to one in which
 competition is the rule.’[^20]
 
@@ -652,7 +652,7 @@ forces of Darwinian evolution are actually one and the same thing.[^21]
 As in Heinlein’s and Asimov’s sci-fi novels, the path forwards to the
 future seems to lead back to the past. The 21st century information age
 will be the realisation of the 18th century liberal ideals of Thomas
-Jefferson: ‘(...) the (...) creation of a new civilisation, founded in
+Jefferson: ‘(…) the (…) creation of a new civilisation, founded in
 the eternal truths of the American Idea.'[^22]
 
 ## The Myth of the Free Market
@@ -1097,19 +1097,19 @@ Modern.
 > *Present circumstances favour making luxury national. Luxury will
 > become useful and moral when it is enjoyed by the whole nation. The
 > honour and advantage of employing directly, in political arrangements,
-> the progress of exact sciences and the fine arts (...) have been
+> the progress of exact sciences and the fine arts (…) have been
 > reserved for our century.*[^51]
 
 # Cyber-Communism: How the Americans Are Superseding Capitalism in Cyberspace
 
 <p class="author">Richard Barbrook</p>
 
-*...is the impact of the (...) information revolution on capitalism not
-the ultimate exemplification of (...) Marx’s thesis that: “at a certain
+*…is the impact of the (…) information revolution on capitalism not
+the ultimate exemplification of (…) Marx’s thesis that: “at a certain
 stage of their development, the material productive forces come into
-conflict with the existing relations of production (...)”? (...) does
-the prospect of the (...) “global village” not signal the end of market
-relations (...) at least in the sphere of digitalised information?*
+conflict with the existing relations of production (…)”? (…) does
+the prospect of the (…) “global village” not signal the end of market
+relations (…) at least in the sphere of digitalised information?*
 
 - Slavoj Žižek, *The Spectre is Still Roaming Around*
 
@@ -1167,7 +1167,7 @@ competition between cyber-entrepreneurs is extending individual freedom
 and encouraging technological innovation in the USA.[^55] As the Net
 spreads across the world, the material and spiritual values of American
 neoliberalism will eventually be imposed on the whole of humanity. As
-Louis Rossetto – the founding editor of *Wired* – explains: 'This new world \[of the Net\] is characterised by a new global economy that is inherently anti-hierarchical and decentralist, and that disrespects national boundaries or the control of politicians and bureaucrats (...) and by a global, networked consciousness (...) that is turning (...) bankrupt electoral politics (...) into a dead end.'[^56]
+Louis Rossetto – the founding editor of *Wired* – explains: 'This new world \[of the Net\] is characterised by a new global economy that is inherently anti-hierarchical and decentralist, and that disrespects national boundaries or the control of politicians and bureaucrats (…) and by a global, networked consciousness (…) that is turning (…) bankrupt electoral politics (…) into a dead end.'[^56]
 
 ## The Cult of the Digerati
 
@@ -1185,7 +1185,7 @@ floating their hi-tech companies on Wall Street.[^57] Mesmerised by the
 commercial potential of e-commerce, many others are speculating their
 savings on new media share issues.
 
-> *Internet stocks (...) may be the hottest things since the Dutch
+> *Internet stocks (…) may be the hottest things since the Dutch
 > tulip-bulb craze in the 1600s.*[^58]
 
 Despite all the wealth being generated by technological innovation, the
@@ -1355,8 +1355,8 @@ industrial goods: steel, cars, tractors and machine-tools.[^78] Economic
 development had become an end in itself.
 
 > *The results of the Five-Year Plan \[of industrialisation\] have shown
-> that the capitalist system (...) has become obsolete and must give way
-> to another, higher, Soviet, socialist system (...).*[^79]
+> that the capitalist system (…) has become obsolete and must give way
+> to another, higher, Soviet, socialist system (…).*[^79]
 
 Back in the 19th century, there had been no clear definition of
 communism. While Mikhail Bakunin had found its antecedents within
@@ -1488,7 +1488,7 @@ incompatible with the continual expansion of the forces of production.
 At this historical moment, Saint-Simon finally had his revenge on his
 false disciples.
 
-> *The \[Stalinist\] communist revolution (...) has brought about a
+> *The \[Stalinist\] communist revolution (…) has brought about a
 > measure of industrial civilisation to vast areas of Europe and Asia.
 > In this way, material bases have actually been created for a future
 > freer society. Thus, while bringing about the most complete despotism,
@@ -1570,9 +1570,9 @@ efficient method of solving common problems within a particular
 scientific discipline.
 
 > *The rationality of professional services is not the same as the
-> rationality of the market (...) In the professions, and especially in
+> rationality of the market (…) In the professions, and especially in
 > science, the abdication of moral control would disrupt the system. The
-> producer of professional services must be (...) responsible for his
+> producer of professional services must be (…) responsible for his
 > products, and it is fitting that he not be alienated from them.*[^92]
 
 Because of these pioneers, the gift economy became firmly embedded
@@ -1616,7 +1616,7 @@ now from outside the academy, the technical design of the Net still
 assumes that all information is a gift.
 
 > *In an information space, we can consider the authorship of materials,
-> and their perception; but (...) there is a need for the underlying
+> and their perception; but (…) there is a need for the underlying
 > infrastructure to be able to make copies simply for reasons of
 > efficiency and reliability. The concept of “copyright” as expressed in
 > terms of copies made makes little sense.*[^95]
@@ -1762,7 +1762,7 @@ isolation and alienation imposed by market competition. Luckily, some
 can now find friendship and intimacy within network communities. Since
 there is no necessity for the enclosure of collective labour within
 cyberspace, Americans can compensate for the damage caused by their
-nation’s ‘...loss of a sense of a social commons’.[^108]
+nation’s ‘…loss of a sense of a social commons’.[^108]
 
 The results of interactive creativity within network communities are
 often trivial and mundane. Yet, at the same time, some online
@@ -1800,7 +1800,7 @@ the first time, Microsoft has a serious competitor for Windows. Enclosed
 by a capitalist monopoly, many American techies are working hard to
 perfect its pragmatic alternative: software cyber-communism.
 
-> *...[Y]ou assume that bugs are generally shallow phenomena – or, at
+> *…[Y]ou assume that bugs are generally shallow phenomena – or, at
 > least, that they turn pretty shallow when exposed to a thousand eager
 > co-developers pounding on every single new release.*[^113]
 
@@ -1956,8 +1956,8 @@ Each moment of interactive creativity is a potential source of profits.
 If the correct hybrid of gift and commodity can be found, collective
 labour will immediately transmute into individual wealth. Excited by the
 riches of some cyber-entrepreneurs, many Americans are now speculating
-on the same assumption about the Net: ‘...communism is (...) a
-*generalisation* and *consummation* of (...) private property’.[^122]
+on the same assumption about the Net: ‘…communism is (…) a
+*generalisation* and *consummation* of (…) private property’.[^122]
 
 For nearly thirty years, the prophets of hi-tech neoliberalism have
 identified economic growth with social stasis. In many sectors, they
@@ -2061,9 +2061,9 @@ sinning against the national myth. While the reformist demand for a
 public health system remains obviously left-wing, the subversive
 implications of circulating information as gifts are literally
 unthinkable. Without any self-doubt, Eric Raymond can be simultaneously
-a passionate advocate of the decommodisation of software and ‘...a
+a passionate advocate of the decommodisation of software and ‘…a
 self-described neo-pagan \[right-wing\] libertarian who enjoys shooting
-semi-automatic weapons...’[^131]
+semi-automatic weapons…’[^131]
 
 Among Americans, cyber-communism is the love that dares not speak its
 name. No one talks about what everyone is doing. Above all, the
@@ -2112,7 +2112,7 @@ to collective projects. Within the Net, the rise in the productive
 forces encourages a more advanced form of collective labour:
 *work-as-gift*.[^134]
 
-> *...Work is born from the Desire for Recognition (...) and it
+> *…Work is born from the Desire for Recognition (…) and it
 > preserves itself and evolves in relation to this same Desire.*[^135]
 
 The dialectical process of superseding capitalism is marked by the
@@ -2188,8 +2188,8 @@ utopian future in the present: cyber-communism.
 > for which it is sufficient have been developed, and new superior
 > relations of production never replace older ones before the material
 > conditions for their existence have matured within the framework of
-> the old society. (...) The bourgeois mode of production is the last
-> antagonistic form of the social process of production – (...) an
+> the old society. (…) The bourgeois mode of production is the last
+> antagonistic form of the social process of production – (…) an
 > antagonism that emanates from the individuals’ social conditions of
 > existence – but the productive forces developing within bourgeois
 > society create also the material conditions for a solution of this
@@ -2321,7 +2321,7 @@ of Westminster, London.
 [^14]: As Seymour Martin Lipset points out, anti-statism liberalism has
     – and still is – the underlying basis of American politics on both
     the Right and the Left: ‘These \[liberal\] values were evident in
-    the 20th century fact that (...) the United States not only lacked a
+    the 20th century fact that (…) the United States not only lacked a
     viable socialist party, but also has never developed a British or
     European-style Conservative or Tory party.’ See Seymour Martin
     Lipset, *American Exceptionalism: A Double-Edged Sword*, New York:
@@ -2345,7 +2345,7 @@ of Westminster, London.
     time chart of ‘future history’ at the front of Robert Heinlein’s
     novel, it predicts that, after a period of social crisis caused by
     rapid technological advance, stability would be restored in the
-    1980s and 1990s through ‘...an opening of new frontiers and a return
+    1980s and 1990s through ‘…an opening of new frontiers and a return
     to nineteenth-century economy’! Heinlein, *The Man Who Sold the
     Moon*, pp. 8-9.
 
@@ -2380,7 +2380,7 @@ of Westminster, London.
 
 [^22]: Progress and Freedom Foundation, *Cyberspace and the American
     Dream*, p. 13. Toffler and friends also proudly proclaim that:
-    ‘America (...) remains the land of individual freedom, and this
+    ‘America (…) remains the land of individual freedom, and this
     freedom clearly extends to cyberspace’, Progress and Freedom
     Foundation, *Cyberspace and the American Dream*, p. 6. Also see
     Kapor, ‘Where is the Digital Highway Really Heading?’
@@ -2407,7 +2407,7 @@ of Westminster, London.
     through the post-war era the Pentagon has quietly been in charge of
     helping American corporations move ahead with technologies like jet
     engines, airframes, transistors, integrated circuits, new materials,
-    lasers, and optic fibres (...) The Pentagon and the 600 national
+    lasers, and optic fibres (…) The Pentagon and the 600 national
     laboratories which work with it and with the Department of Energy
     are the closest thing America has to Japan’s well-known Ministry of
     International Trade and Industry.’ Reich, *The Work of Nations*, p.
@@ -2444,7 +2444,7 @@ of Westminster, London.
     not be members of the Lockean social contract which bound together
     citizens of the American republic. One commentator explains his
     hypocritical philosophical justification for this racist position:
-    ‘The rights of man (...) while theoretically and ideally the birth
+    ‘The rights of man (…) while theoretically and ideally the birth
     right of every human being, applied in practice in the United States
     only to white men: the black slaves were excluded from consideration
     because, while admittedly human beings, they were also property, and
@@ -2455,7 +2455,7 @@ of Westminster, London.
     letter of 22 April 1820, he disingenuously suggested that the best
     way to encourage the abolition of slavery would be to legalise the
     private ownership of human beings in all States of the Union and the
-    frontier territories! He claimed that ‘...their diffusion over a
+    frontier territories! He claimed that ‘…their diffusion over a
     greater surface would make them individually happier, and
     proportionally facilitate the accomplishment of their emancipation,
     by dividing the burden on a greater number of coadjutors \[i.e.
@@ -2538,7 +2538,7 @@ of Westminster, London.
 [^49]: As Goldie, a London DJ, puts it: ‘We have to take it forwards and
     take the drums ’n’ bass and push it and push it and push it. I
     remember when we were saying that it couldn’t be pushed anymore.
-    It’s been pushed tenfold since then...’ Tony Marcus, ‘The War is
+    It’s been pushed tenfold since then…’ Tony Marcus, ‘The War is
     Over’, *Mixmag* (August 1995), p. 46.
 
 [^50]: For information on Antirom and *J’s Joint*, see the Antirom and
